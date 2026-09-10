@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Associate Professor
+    company: Center for Mind/Brain Sciences (CIMeC) - University of Trento
+    company_url: 'https://www.cimec.unitn.it/en'
+    company_logo: 
+    location: Trento, Italy
+    date_start: '2026-09-01'
+    date_end: ''
+    description:
+
   - title: Assistant Professor (RTDB)
     company: Center for Mind/Brain Sciences (CIMeC) - University of Trento
     company_url: 'https://www.cimec.unitn.it/en'
     company_logo: 
     location: Trento, Italy
     date_start: '2023-09-01'
-    date_end: ''
+    date_end: '2026-08-31'
     description:
 
   - title: Lecturer (Maître d’enseignement et de recherché)

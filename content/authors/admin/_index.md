@@ -11,7 +11,7 @@ role: Neuroscientist - Cognitive Psychologist - Data Scientist
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Center for Mind/Brain Sciences - University of Trento
-    url: https://www.cimec.unitn.it/en/
+    url: https://webapps.unitn.it/du/en/Persona/PER0039257
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
