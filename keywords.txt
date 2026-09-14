@@ -1,5 +1,6 @@
 pain,nociception
 analgesia,Pain Management
+Pain Decoding,Pain Communication
 emotion,Unpleasantness
 arousal
 olfaction,disgust
@@ -51,6 +52,9 @@ sequential-task paradigm
 Electrophysiology,Skin Conductance Response
 cardiac response,cardiovascular reactivity,heart rate variability
 TMS
+Computational Modeling
+Facial Action Units
+Reverse Correlation
 
 fMRI,neuroimaging
 high-resolution
@@ -87,3 +91,6 @@ autotopagnosia
 Covid-19
 Brain tumors
 Stroke Patients
+
+Corrugator
+Nose wrinkler
