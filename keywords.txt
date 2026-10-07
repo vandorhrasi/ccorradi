@@ -51,7 +51,7 @@ sequential-task paradigm
 
 Electrophysiology,Skin Conductance Response
 cardiac response,cardiovascular reactivity,heart rate variability
-TMS
+TMS,EEG,MEG
 Computational Modeling
 Facial Action Units
 Reverse Correlation
